@@ -1,0 +1,69 @@
+{
+  "children": [
+    {
+      "id": 3,
+      "name": "Concerts",
+      "price": 2000,
+      "events": [],
+      "children": [
+        {
+          "id": 1207,
+          "name": "Rock and Pop",
+          "children": [
+            {
+              "id": 429,
+              "name": "Backstreet Boys",
+              "children": [],
+              "events": [
+                {
+                  "id": 442829,
+                  "name": "Backstreet Boys",
+                  "city": "Camden",
+                  "price": 23
+                },
+                {
+                  "id": 442826,
+                  "name": "Backstreet Boys",
+                  "city": "Hartford",
+                  "price": 20
+                },
+                {
+                  "id": 442826,
+                  "name": "Backstreet Boys",
+                  "city": "Betherl",
+                  "price": 20
+                }
+              ]
+            },
+            {
+              "id": 1207,
+              "name": "Justine Bieber",
+              "children": [],
+              "events": [
+                {
+                  "id": 442830,
+                  "name": "Justine Bieber",
+                  "city": "Camden",
+                  "price": 23
+                },
+                {
+                  "id": 442831,
+                  "name": "Justine Bieber",
+                  "city": "Hartford",
+                  "price": 20
+                },
+                {
+                  "id": 442832,
+                  "name": "Justine Bieber",
+                  "city": "Betherl",
+                  "price": 20
+                }
+              ]
+            }
+          ],
+          "events": []
+        }
+      ]
+    }
+  ]
+}
